@@ -1,0 +1,16 @@
+live_config_reload = true
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 18.0
+normal = {family = "JetBrainsMono Nerd Font", style="Regular" }
+
+[window]
+dynamic_padding = false
+opacity = 0.9
+padding = {x = 8, y = 6}
+decorations = "Buttonless"
+startup_mode = "Maximized"
+option_as_alt = "Both"
