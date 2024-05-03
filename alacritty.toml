@@ -9,7 +9,8 @@ normal = {family = "JetBrainsMono Nerd Font", style="Regular" }
 
 [window]
 dynamic_padding = false
-opacity = 0.9
+opacity = 0.8
+blur = true
 padding = {x = 8, y = 6}
 decorations = "Buttonless"
 startup_mode = "Maximized"
